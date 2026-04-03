@@ -95,7 +95,7 @@ Dashboard screenshots are included in the PowerBI folder.
 ---
 
 # About Me
-Aspiring Data Analyst with a strong interest in data visualization and business intelligence. 
+I Anothile Bhengu am a aspiring Data Analyst with a strong interest in data visualization and business intelligence. 
 Passionate about leveraging data to generate insights that drive informed decision-making.
 
 ---
